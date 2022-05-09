@@ -1,0 +1,15 @@
+{
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#E3DEFF",
+  "icon": "server",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1652087154,
+    "nanos": 110000000
+  },
+  "deleted": false
+}
